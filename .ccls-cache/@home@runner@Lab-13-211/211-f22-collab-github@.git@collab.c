@@ -23,7 +23,7 @@ void ftolo2_tchow6() {
 
 int main()
 {
-    printf("This code has been created by the \n\n");
+    printf("We love git \n\n");
     
     ftolo2_tchow6();
     
